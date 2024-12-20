@@ -6,8 +6,7 @@ Este proyecto simula el comportamiento de un ventilador inteligente que ajusta s
 Asegúrate de tener las siguientes herramientas instaladas en tu sistema:
 
 - **Python** (versión 3.6 o superior)
-- Librerías de Python requeridas:
-  - `numpy`
+- Librería de Python requerida:
   - `matplotlib`
     
 Para instalarlas sigue los siguientes pasos:
@@ -20,12 +19,12 @@ Descargar desde [python.org](https://www.python.org/). Durante la instalación, 
 
 Seguir las instrucciones de [este enlace](https://pip.pypa.io/en/stable/installation/).
 
-### Paso 3: Instalar las bibliotecas requeridas
+### Paso 3: Instalar la biblioteca requerida
 
 Desde cmd ejecutar el siguiente comando:
 
 ```sh
-pip install numpy matplotlib
+pip install matplotlib
 ```
 
 ## Ejecucion
